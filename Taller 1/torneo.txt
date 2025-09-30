@@ -1,0 +1,4 @@
+4
+estrategia1.txt
+estrategia3.txt
+estrategia4.txt
